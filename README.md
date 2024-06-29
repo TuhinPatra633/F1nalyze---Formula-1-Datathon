@@ -7,4 +7,4 @@ RandomForestRegressor_model1.ipynb - This Files Contains Data Cleaning, Feature 
 
 first tune.ipynb -- Initial hypertune of some model
 
-hypertune_first_tune -- More precisely hypertune of first tune model.
+hypertune_first_tune -- More precisely hypertune of first tune files model.
