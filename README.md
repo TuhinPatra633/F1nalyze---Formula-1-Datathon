@@ -1,5 +1,7 @@
 # 🏎️ F1nalyze Datathon Competition 🏁
 
+<img src="f1_image.png" alt="Banner" width="500"/>
+
 Welcome to my GitHub repository for the thrilling **F1nalyze Datathon** competition! This 24-hour event is an adrenaline-fueled journey where data enthusiasts dive deep into the world of Formula 1 racing, using data analysis and machine learning to predict race outcomes and driver performances.
 
 ## 🏆 Competition Overview
